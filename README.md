@@ -1,16 +1,26 @@
-## Hi there 👋
+💫 About Me:
+🚀 About Me
 
-<!--
-**SoftwareDev-01/SoftwareDev-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend-focused full stack developer passionate about building scalable, high-performance systems and production-grade web applications.
 
-Here are some ideas to get you started:
+- 💻 Currently pursuing B.Tech in Computer Science at IIIT Ranchi (CGPA: 8.40)
+- ⚙️ Strong focus on Microservices, System Design, and Distributed Systems
+- 🚀 Built end-to-end platforms including:
+- 🎵 Music Streaming System (Microservices + Redis + Polyglot DB)
+- 🛒 E-commerce Engine (Next.js + AI Assistant + Stripe)
+- 🌐 Social Media Platform (Realtime + Media Pipelines)
+- ⚡ Experienced in optimizing performance (35%+ latency reduction, 95+ Lighthouse scores)
+- 🧠 Solved 600+ DSA problems across LeetCode, Codeforces & HackerRank
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 What I enjoy working on:
+- Scalable backend architectures
+- Performance optimization & caching
+- Real-time systems & APIs
+- AI integrations in modern web apps
+
+### 🎯 Currently exploring:
+- Advanced System Design
+- Distributed Systems at scale
+- High-performance backend engineering
+💻 Tech Stack:
+C++ C CSS3 HTML5 JavaScript TypeScript Python Vercel Context-API EJS FastAPI Express.js NodeJS Next JS Nodemon RabbitMQ React Router React Hook Form Redux React Query React Socket.io SASS Apache Jenkins Postgres Redis MySQL SQLite Sequelize Prisma GitLab GitHub Jest Jira
